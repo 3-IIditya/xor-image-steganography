@@ -78,7 +78,7 @@ The length of the message
 
 # 📝 License
 
-This project is licensed under the MIT License – see the LICENSE file for details.
+This project is licensed under the MIT License – see the [LICENSE](https://github.com/Aditya182007/xor-image-steganography/blob/main/LICENSE) file for details.
 
 # 👨‍💻 Author
 
