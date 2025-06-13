@@ -28,7 +28,7 @@ Install the required Python libraries using:
 pip install -r requirements.txt
 ```
 
-#🧑‍💻 How to Use
+# 🧑‍💻 How to Use
 Run the Python script:
 
 ```bash
@@ -36,7 +36,7 @@ python encrypt_decrypt.py
 ```
 Follow the prompts:
 
-#🔐 Encryption
+# 🔐 Encryption
 
 ```bash
 📦 Welcome to XOR Image Steganography
@@ -54,7 +54,7 @@ encrypted_image.png saved in your project folder
 
 Preview of the encrypted image
 
-#🔓 Decryption
+# 🔓 Decryption
 
 ```bash
 Enter your choice (1/2): 2
@@ -67,7 +67,7 @@ Output:
 ✅ Decrypted Message: hello
 ```
 
-#💡 Notes
+# 💡 Notes
 Make sure the image has enough pixels to hold your message.
 
 The decryption process requires you to know:
@@ -76,10 +76,10 @@ The original encryption key
 
 The length of the message
 
-#📝 License
+# 📝 License
 
 This project is licensed under the MIT License – see the LICENSE file for details.
 
-#👨‍💻 Author
+# 👨‍💻 Author
 
 Developed by AĐ!†¥∆ 
