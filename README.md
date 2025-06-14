@@ -32,7 +32,7 @@ pip install -r requirements.txt
 Run the Python script:
 
 ```bash
-python xor-image-steganography.py
+python Steganography_XOR.py
 ```
 Follow the prompts:
 
