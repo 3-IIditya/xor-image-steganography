@@ -23,24 +23,8 @@ This tool modifies the RGB values of an image's pixels by XOR-ing them with ASCI
 ## 📦 Requirements
 
 Install the required Python libraries using:
-
 ```bash
-pip install os-sys
-```
-```bash
-pip install opencv-python
-```
-```bash
-pip install numpy
-```
-```bash
-pip install matplotlib
-```
-```bash
-pip install os-sys
-pip install opencv-python
-pip install numpy
-pip install matplotlib
+pip install -r requirements.txt
 ```
 
 # 🧑‍💻 How to Use
