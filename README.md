@@ -32,7 +32,7 @@ pip install -r requirements.txt
 Run the Python script:
 
 ```bash
-python encrypt_decrypt.py
+python xor-image-steganography.py
 ```
 Follow the prompts:
 
